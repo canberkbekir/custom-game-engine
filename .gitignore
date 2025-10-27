@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# JetBrains IDEs
+.idea/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
